@@ -1,0 +1,1 @@
+Κάνε pip install wordcloud
