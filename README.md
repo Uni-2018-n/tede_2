@@ -2,3 +2,7 @@
 Το test τρεχει instantly ενω το σκετο ειναι αργο, ασχοληθηκα λιγο με τα parameters αλλα δεν καταφερα πολλα αν βρω τπτ θα το προσθεσω αλλιως στελνουμε linear και τελειωσε.
 random_forests works nicely 
 still no clue with word2vec
+
+
+**
+Might found something for word2vec need one more thing to figure out
